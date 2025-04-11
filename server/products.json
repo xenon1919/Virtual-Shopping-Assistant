@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Sneakers",
+      "category": "shoes",
+      "price": "$49.99"
+    },
+    {
+      "id": 2,
+      "name": "Formal Shirt",
+      "category": "shirt",
+      "price": "$39.99"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "shoes",
+      "price": "$59.99"
+    }
+  ]
+  
